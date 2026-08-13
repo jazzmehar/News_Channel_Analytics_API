@@ -44,7 +44,7 @@ News_Channel_Analytics_API/
 ## Project Output
 
 ### Half-Hourly Analysis
-![Half-Hourly Analysis](screenshotshalf_hourly_chart.  png)
+![Half-Hourly Analysis](screenshotshalf_hourly_chart.png)
 
 ### Daily Analysis
 ![Daily Analysis](screenshots/daily_chart.png)
