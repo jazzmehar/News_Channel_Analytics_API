@@ -40,3 +40,14 @@ News_Channel_Analytics_API/
     ├── half_hourly.png
     ├── daily.png
     └── weekly.png
+
+## Project Output
+
+### Half-Hourly Analysis
+![Half-Hourly Analysis](screenshotshalf_hourly_chart.  png)
+
+### Daily Analysis
+![Daily Analysis](screenshots/daily_chart.png)
+
+### Weekly Analysis
+![Weekly Analysis](screenshots/weekly_chart.png)
